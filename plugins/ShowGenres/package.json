@@ -1,0 +1,10 @@
+{
+	"name": "ShowGenres",
+	"description": "Display song genres",
+	"author": {
+		"name": "Sloth",
+		"url": "https://github.com/alferguet"
+	},
+	"main": "./src/index.ts",
+	"type": "module"
+}
